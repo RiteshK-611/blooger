@@ -541,7 +541,7 @@ footer.footer .move-up span:hover{
 
 @media only screen and (max-width: 520px){
   main .blog{
-      height: 125vh;
+      height: 90vh;
   }
 
   .site-content .post-content > .post-image .post-info{
